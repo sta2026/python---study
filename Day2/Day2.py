@@ -28,6 +28,7 @@ if age> 20:
     b = "성인"
 else:
     b = "미성년자"
+print(b)
 score = 75
 if score >=90:
     grade ="A"
